@@ -1,1 +1,3 @@
 # barberApp
+
+Initial projet
